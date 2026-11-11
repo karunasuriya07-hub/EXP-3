@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |KARUNA SURIYA S | **Reg. No.:** |26018298 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |11/11/2026 | **Batch / Section:** |BE (CSE)|
 
 ---
 
@@ -47,7 +47,7 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+*<img width="518" height="398" alt="EXPERIMENT-3 DIAGRAM-1" src="https://github.com/user-attachments/assets/15de4f17-5211-4d74-aca3-685550cc5b55" />
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -57,16 +57,18 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 |ON|ON |ON |
+| 2 |ON| OFF| OFF|
+| 3 | OFF|ON |OFF |
+| 4 |OFF |OFF |ON |
 
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+*<img width="584" height="402" alt="EXPERIMENT-3 DIAGRAM-4" src="https://github.com/user-attachments/assets/e8af1037-59d4-4e64-86ae-d35315647de5" />
+
+
 
 **Figure 2:** Staircase wiring – cross connection
 
@@ -76,10 +78,10 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 |ON |ON | OFF|
+| 2 |ON|OFF |ON|
+| 3 |OFF |ON|ON |
+| 4 |OFF |OFF |OFF|
 
 ## SIMULATION USING PROTEUS
 
@@ -87,13 +89,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+*<img width="670" height="454" alt="EXPERIMENT-3 DIAGRAM-2" src="https://github.com/user-attachments/assets/7323467b-780a-4584-b8b7-115bead75e63" />
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+*<img width="1107" height="692" alt="exp3    2" src="https://github.com/user-attachments/assets/fe2de06e-4b0b-42c8-9534-54c7e4f75aa9" />
+
 
 **Figure 4:** Proteus simulation – cross connection
 
